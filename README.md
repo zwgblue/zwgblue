@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zwgblue
-- 👀 I’m interested in backend development and game development.
+- 👀 I’m interested in backend development.
 - 🌱 I’m currently learning golang, c/c++, rust and so on.
 
 <!---
